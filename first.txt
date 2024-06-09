@@ -3,3 +3,7 @@ This is version one of my project
 Git init      ==>The main purpose of the git init command is to initialize the new working environment or a new git repository to work on a new project
 //
 git add --a   ==>To add all the files in the repository in the staging level
+//
+git log       ==> to check the logs of commits
+//
+git commit -m "msg" ==> to commit the cahnges from staging to 
