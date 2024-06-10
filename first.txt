@@ -6,4 +6,5 @@ git add --a   ==>To add all the files in the repository in the staging level
 //
 git log       ==> to check the logs of commits
 //
-git commit -m "msg" ==> to commit the cahnges from staging to 
+git commit -m "msg" ==> to commit the cahnges from staging to Git repository
+
