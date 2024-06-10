@@ -9,6 +9,7 @@ git log       ==> to check the logs of commits
 git commit -m "msg" ==> to commit the cahnges from staging to git repository
 //
 git push -f origin master ==> to push changes from git repo to github repository
+//
 
 
 
