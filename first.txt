@@ -7,9 +7,9 @@ git add --a   ==>To add all the files in the local in the staging level
 //
 git log       ==> to check the logs of commits
 //
-git commit -m "msg" ==> to commit the cahnges from staging to git repository
+git commit -m "msg" ==> to commit the cahnges from staging to git repository.
 //
-git push -f origin master ==> to push changes from git repo to github repository
+git push -f origin master ==> to push changes from git repo to github repository.
 //
 git restore --staged <filename> ==>used to unstage any file from staging level to local
 
