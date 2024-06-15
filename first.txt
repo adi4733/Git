@@ -1,6 +1,7 @@
 This is version1 of my project
 //
-Git init      ==>The main purpose of the git init command is to initialize the new working environment or a new git repository to work on a new project
+Git init      ==>The main purpose of the git init command is to initialize the new working environment or a new git repository to work
+                 on a new project.Used to initialize the project so that it can start tracking the project for any change
 //
 git add --a   ==>To add all the files in the local in the staging level
 //
@@ -10,7 +11,8 @@ git commit -m "msg" ==> to commit the cahnges from staging to git repository
 //
 git push -f origin master ==> to push changes from git repo to github repository
 //
-
+git restore --staged <filename> ==>used to unstage any file from staging level to local
+//
 
 
 
